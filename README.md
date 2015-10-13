@@ -1,6 +1,10 @@
-# Nice Job
-1. Check DNS
-2. Check hosting IP
-3. Search by key "bonchromantik" on github
-4. ...
-5. Sorry, your hack skill is low :stuck_out_tongue_closed_eyes:
+# Bonchromantic
+Инструменты при проектировании:
+* Sublime Text 3
+* Materialize
+* git
+* pages.github.com
+
+И не надо выпендриваться, что сайт <s>ниочём</s> написан в блокноте.
+
+Меня подобные высказывания очень смешат - если ты такой умный, то докажи: форкни репозиторий и сделай круче моего, а я посмотрю на тебя (твои проекты) и твоё решение, небось даже git'ом банально не умеешь пользоваться.
